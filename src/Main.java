@@ -98,6 +98,6 @@ public class Main {
         System.out.println();
         System.out.println("----------------- 5. numOfDuplicates -----------------");
         System.out.println(StringExtensions.numOfDuplicates(new String[]{"ядра", "Вытру", "ядра", "ядра"}, "ядра"));
-
+        System.out.println("----------------- The End. -----------------");
     }
 }
